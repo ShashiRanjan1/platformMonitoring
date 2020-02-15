@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Inbox Module Content">3a425cfc1b030010c5dd4196bc4bcbcc</content>
+        <content_attrs/>
+        <content_component display_value="sn-inbox">15415f6bc913d31534330f91530c944c</content_component>
+        <content_tag/>
+        <detail display_value="Inbox Module Detail">7a425cfc1b030010c5dd4196bc4bcbeb</detail>
+        <detail_attrs/>
+        <detail_component display_value="sn-inbox-empty">ee222d2bff222300294153bd6338f113</detail_component>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>inbox-outline</icon>
+        <id>inbox</id>
+        <label>Inbox</label>
+        <order>200</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-15 23:22:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b6425cfc1b030010c5dd4196bc4bcbc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inbox</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="monitorNow" source="x_60748_monitornow">dbd15c7c1b030010c5dd4196bc4bcbf2</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="monitorNow">dbd15c7c1b030010c5dd4196bc4bcbf2</sys_scope>
+        <sys_update_name>sys_aw_module_b6425cfc1b030010c5dd4196bc4bcbc3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-15 23:22:11</sys_updated_on>
+        <toolbar_button display_value="Inbox Button">fa425cfc1b030010c5dd4196bc4bcbc3</toolbar_button>
+        <type>master_detail</type>
+        <workspace_config display_value="monitorNow">2a42107c1b030010c5dd4196bc4bcb11</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=b6425cfc1b030010c5dd4196bc4bcbc3"/>
+</record_update>
